@@ -6,6 +6,7 @@ This was written for Dying Light 2, but should also work for other games. I wasn
 
 # Usage
 Extract all RIFFs from "streams.aesp" into its directory:   
-`re_x64.exe streams.aesp`
+`re_x64.exe streams.aesp`    
+You can drag and drop onto the exe instead if you want.
 
 Extracted RIFFs can be turned into playable OGGs using the batch file above.
